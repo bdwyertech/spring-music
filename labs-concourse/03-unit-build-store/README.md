@@ -27,3 +27,4 @@ In this case, the Job won't automatically re-run since it is already in the "SUC
 
 Using the git resource documention (https://github.com/concourse/git-resource), add a step in the build-binary job that tags the repo with the new version.
 
+.
