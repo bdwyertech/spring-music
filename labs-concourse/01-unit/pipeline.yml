@@ -3,7 +3,7 @@ resources:
   type: git
   source:
     uri: https://github.com/((username))/spring-music
-    branch: master
+    branch: hello
 
 jobs:
 - name: unit-test
